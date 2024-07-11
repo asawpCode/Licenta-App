@@ -1,33 +1,34 @@
-# Configurarea unui proiect Flutter
 
-Acest fișier README vă ghidează prin procesul de configurare a unui proiect Flutter pe Windows și pentru rularea acestuia.
+# Setting Up a Flutter Project
 
-## Cerințe prealabile
+This README file guides you through the process of setting up the Flutter project on Windows and running it.
 
-1. Instalați Flutter urmând instrucțiunile din documentația oficială Flutter: [https://docs.flutter.dev/get-started/install/windows/mobile?tab=vscode](https://docs.flutter.dev/get-started/install/windows/mobile?tab=vscode)
+## Prerequisites
 
-2. Instalați Flutter în Visual Studio Code (recomandat) sau Android Studio.
+1. Install Flutter by following the instructions in the official Flutter documentation: [https://docs.flutter.dev/get-started/install/windows/mobile?tab=vscode](https://docs.flutter.dev/get-started/install/windows/mobile?tab=vscode)
 
-## Pași de urmat
+2. Install Flutter in Visual Studio Code (recommended) or Android Studio.
 
-1. **Creați un proiect Flutter nou**
-   - În Visual Studio Code, apăsați `Ctrl+Shift+P` și căutați "Flutter: New Project".
-   - În Android Studio, accesați `File > New > New Flutter Project`.
+## Steps to Follow
 
-2. **Deschideți folderul proiectului în Explorer**
-   - Navigați la folderul proiectului pe care tocmai l-ați creat.
+1. **Create a New Flutter Project**
+   - In Visual Studio Code, press `Ctrl+Shift+P` and search for "Flutter: New Project".
+   - In Android Studio, go to `File > New > New Flutter Project`.
 
-3. **Înlocuiți fișierele proiectului**
-   - Dezarhivați fișierul `.zip` furnizat, care conține fișierele proiectului actualizate.
-   - Copiați fișierele din folderul dezarhivat și în folderul proiectului, înlocuind fișierele existente când vi se solicită.
+2. **Open the Project Folder in Explorer**
+   - Navigate to the folder of the project you just created.
 
-4. **Deschideți proiectul cu fișierele actualizate**
-   - Deschideți folderul proiectului.
+3. **Replace Project Files**
+   - Unzip the provided `.zip` file, which contains the updated project files.
+   - Copy the files from the unzipped folder into the project folder, replacing existing files when prompted.
 
-5. **Accesați fișierul main.dart din folderul lib**
-   - Navigați la fișierul `main.dart` din folderul `lib` al proiectului.
+4. **Open the Project with Updated Files**
+   - Open the project folder.
 
-6. **Compilați și rulați folosind un emulator Android**
-   - Porniți un emulator Android sau conectați un dispozitiv Android fizic.
-   - Compilați aplicația în editor-ul folosit.
-Acum ar trebui să puteți vedea aplicația rulând pe emulatorul Android sau pe dispozitivul dvs. Android conectat.
+5. **Navigate to the main.dart File in the lib Folder**
+   - Go to the `main.dart` file in the project's `lib` folder.
+
+6. **Build and Run Using an Android Emulator**
+   - Start an Android emulator or connect a physical Android device.
+   - Build the app in the editor you are using.
+You should now see the app running on the Android emulator or your connected Android device.
