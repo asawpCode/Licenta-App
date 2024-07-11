@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "348447815764",
+    "firebase_url": "https://calmyo-dd42a-default-rtdb.firebaseio.com",
+    "project_id": "calmyo-dd42a",
+    "storage_bucket": "calmyo-dd42a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348447815764:android:39d1b86e63e2b7e4fe95c1",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348447815764-q64mi0u73m7sk73ouha15dn1u28pao6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "f0c1eed528f8a9987e7d345fc0cf01caad003f73"
+          }
+        },
+        {
+          "client_id": "348447815764-qsv45nb43jdq4dp69ek6nhrrn96vdbo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiC6Ltp7YZBGTmLoZBrEf3JJW02uM8OuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348447815764-5cgt9hsgd603gqgaaka82bk2v0kpmp7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348447815764-iadmbh9gbpuuj5eqh9964b4fa6okhd9c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
