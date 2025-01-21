@@ -1,5 +1,5 @@
 
-# Setting Up a Flutter Project
+# Setup
 
 This README file guides you through the process of setting up the Flutter project on Windows and running it.
 
